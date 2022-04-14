@@ -1,0 +1,12 @@
+.background2{
+  
+  height: 4500px;
+  width: 10000px;
+background-image: url(../public/Images/background.jpg);
+}
+.fonts1{
+    font-size: 3.5rem;
+}
+.fonts2{
+    font-size: 3.0rem;
+}
